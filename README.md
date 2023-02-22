@@ -8,6 +8,17 @@ To make a char app using flask:
 5. Should support group chat - in queue
 6. Chat should be persistant - in progress
 --------------------------------------------------------------------------------
+Technologies :
+--------------------------------------------------------------------------------
+Python
+Flask
+Kafka
+MongoDB
+HTML
+CSS
+JavaScript
+Bootstrap
+--------------------------------------------------------------------------------
 
 Till Now:
 1. User can Register & Login
@@ -22,7 +33,7 @@ To do:
 4. Optimize the performance of the app.
 
 
-
+---------------------------------------------------------------------------------
 Database Connection - Mongo DB
 ---------------------------------------------------------------------------------
 As per now data is stored in real-time in the Dictionary data-structure as shown below:
@@ -59,6 +70,8 @@ Running the app :
 >> Use commands in commands.txt to start zookeeper and kafka.
 >> in virtual env/ run python home.py
 >> in virtual env/ run python action_server.py
+
+----------------------------------------------------
 
 Adding the screenshots for the same:
 
