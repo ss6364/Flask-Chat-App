@@ -1,6 +1,6 @@
 ## Objective
 ------------
-To make a char app using flask:
+To make a chat app using flask:
 1. Register user - completed
 2. Login User - completed
 3. Send messages - completed
